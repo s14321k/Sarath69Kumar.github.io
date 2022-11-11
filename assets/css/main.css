@@ -3907,3 +3907,30 @@ input, select, textarea {
 			}
 
 		}
+
+		.tilesL
+		{
+			margin-top:-7px;
+			background:rgba(184, 146, 45, 0.8);
+			border-radius: 20%;
+			text-align: center;
+			float: left;width:30%;
+			opacity:0.9;
+			background: -moz-linear-gradient(#ffe6cc, #ffa64d);
+			background: -webkit-linear-gradient(#ffe6cc, #c97a2c);
+			background: -o-linear-gradient(#ffe6cc, #ffa64d);
+		}
+
+		.tilesR
+		{
+			background:rgba(109, 187, 200, 0.8);
+			border-radius: 20%;
+			text-align: center;
+			opacity:1.5;
+			background: -moz-linear-gradient(#ffe6cc, #ffa64d);
+			background: -webkit-linear-gradient(#134aaf, #5e42a6);
+			background: -o-linear-gradient(#ffe6cc, #ffa64d);
+		}
+
+
+		
