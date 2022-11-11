@@ -3911,6 +3911,7 @@ input, select, textarea {
 		.tilesL
 		{
 			margin-top:-7px;
+			color:#261c3e;
 			background:rgba(184, 146, 45, 0.8);
 			border-radius: 20%;
 			text-align: center;
