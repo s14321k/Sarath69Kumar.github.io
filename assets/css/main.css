@@ -3912,11 +3912,13 @@ input, select, textarea {
 		{
 			margin-top:-7px;
 			color:#261c3e;
+			font-weight:800;
 			background:rgba(184, 146, 45, 0.8);
-			border-radius: 20%;
+			border-radius: 50%;
 			text-align: center;
-			float: left;width:30%;
-			opacity:0.9;
+			float: left;
+			width:35%;
+			opacity:0.6;
 			background: -moz-linear-gradient(#ffe6cc, #ffa64d);
 			background: -webkit-linear-gradient(#ffe6cc, #c97a2c);
 			background: -o-linear-gradient(#ffe6cc, #ffa64d);
@@ -3925,9 +3927,10 @@ input, select, textarea {
 		.tilesR
 		{
 			background:rgba(109, 187, 200, 0.8);
+			font-weight: 500;
 			border-radius: 20%;
 			text-align: center;
-			opacity:1.5;
+			opacity:1.0;
 			background: -moz-linear-gradient(#ffe6cc, #ffa64d);
 			background: -webkit-linear-gradient(#134aaf, #5e42a6);
 			background: -o-linear-gradient(#ffe6cc, #ffa64d);
