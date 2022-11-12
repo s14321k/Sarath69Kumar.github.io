@@ -3918,7 +3918,7 @@ input, select, textarea {
 			text-align: center;
 			float: left;
 			width:35%;
-			opacity:0.6;
+			opacity:0.8;
 			background: -moz-linear-gradient(#ffe6cc, #ffa64d);
 			background: -webkit-linear-gradient(#ffe6cc, #c97a2c);
 			background: -o-linear-gradient(#ffe6cc, #ffa64d);
